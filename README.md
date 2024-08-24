@@ -1,36 +1,17 @@
-# Redux Store Management
+### space project 
+* project is still under development.
+
+  <img width="1288" alt="Screenshot 2024-08-24 at 10 15 15 PM" src="https://github.com/user-attachments/assets/fa037d0f-84a4-410a-be2e-4edad46ec590">
+
+  
+##### Introduction
+
+* Redux demo on initial load using redux-saga
+* bootstrap used for basic styling
+* rootSaga and rootReducer main points
 
 Using ReactJS
 https://reqres.in/
 
-## Introduction
 
-In this project, calling a space API with React UseEffect Hook.
 
-### Details
-
-Used Bootstrap library for styling.
-Displayed the fetched data using card component.
-For fetching data, axios is used.
-
-### `Basic Implementation of Redux
-
-Tried implementing basic redux store with redux toolkit.
-
-Folder Details:-
-Redux---->apiSlice and store
-
-apiSlice has reducer and state.
-Whereas, in store file, store is created using configureStore method in toolkit.
-
-### ReactJS
-
-Folder structure:-
-src-->components-->CardSection, DisplaySection and Filter section.
-In compoenets, CSS folder is there for all CSS files.
-
-## Deployment
-
-The project is live on heroku.
-
-https://space-project-mp.herokuapp.com/
