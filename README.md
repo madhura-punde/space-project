@@ -1,6 +1,7 @@
 # Redux Store Management
 
 Using ReactJS
+https://reqres.in/
 
 ## Introduction
 
@@ -16,20 +17,20 @@ For fetching data, axios is used.
 
 Tried implementing basic redux store with redux toolkit.
 
-Folder Details:- 
+Folder Details:-
 Redux---->apiSlice and store
- 
- apiSlice has reducer and state.
- Whereas, in store file, store is created using configureStore method in toolkit.
- 
-### ReactJS 
+
+apiSlice has reducer and state.
+Whereas, in store file, store is created using configureStore method in toolkit.
+
+### ReactJS
 
 Folder structure:-
 src-->components-->CardSection, DisplaySection and Filter section.
 In compoenets, CSS folder is there for all CSS files.
 
 ## Deployment
-The project is live on heroku.
 
+The project is live on heroku.
 
 https://space-project-mp.herokuapp.com/
